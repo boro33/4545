@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.AssemblyInfo.cs
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\Doctor Entinity Boris Marinov\Doctor Entinity Boris Marinov\obj\Debug\net5.0\Doctor Entinity Boris Marinov.MvcApplicationPartsAssemblyInfo.cache
